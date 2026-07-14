@@ -2,11 +2,11 @@
 
 LaTeX source and compiled PDF for my CV.
 
-- [`cv.tex`](cv.tex) — source
-- [`cv.pdf`](cv.pdf) — compiled output
+- [`rasmussen_cv.tex`](rasmussen_cv.tex) — source
+- [`rasmussen_cv.pdf`](rasmussen_cv.pdf) — compiled output
 
 ## Build
 
 ```bash
-pdflatex cv.tex && pdflatex cv.tex   # two passes for the page-count reference
+pdflatex rasmussen_cv.tex && pdflatex rasmussen_cv.tex   # two passes for the page-count reference
 ```
