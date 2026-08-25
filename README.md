@@ -8,5 +8,5 @@ LaTeX source and compiled PDF for my CV.
 ## Build
 
 ```bash
-pdflatex rasmussen_cv.tex && pdflatex rasmussen_cv.tex   # two passes for the page-count reference
+/usr/bin/pdflatex rasmussen_cv.tex && /usr/bin/pdflatex rasmussen_cv.tex   # two passes for the page-count reference
 ```
